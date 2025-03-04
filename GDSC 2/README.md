@@ -48,8 +48,11 @@ Technologies Used
 
 novaflow/
 ├── index.html        # Main HTML file
+
 ├── styles.css        # Stylesheet for the entire site
+
 ├── script.js         # JavaScript for interactivity and animations
+
 ├── server.js         # Optional Node.js server for local development
 
 
